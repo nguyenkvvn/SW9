@@ -41,6 +41,11 @@ You will need a set of each below for each [x] you make.
 
 ## Change Log
 
+- v0.2: Private Beta Candidate 2
+    * Addressed trigger safety
+    * Addressed front rail interference with locking block
+    * Addressed Glock magazine variant thin wall
+
 - v0.1: Private Beta Candidate 1
     * Initial commit
     * Supercedes fitment model
