@@ -41,6 +41,9 @@ You will need a set of each below for each [x] you make.
 
 ## Change Log
 
+- v0.3: Private Beta Candidate 3
+    * Addressed sear housing seating
+
 - v0.2: Private Beta Candidate 2
     * Addressed trigger safety
     * Addressed front rail interference with locking block
