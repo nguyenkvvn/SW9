@@ -41,6 +41,9 @@ You will need a set of each below for each [x] you make.
 
 ## Change Log
 
+- v0.4: Private Beta Candidate 4
+    * Addressed Glock variant seating by -2mm towards rails to accomodate PMAGs
+
 - v0.3: Private Beta Candidate 3
     * Addressed sear housing seating
 
