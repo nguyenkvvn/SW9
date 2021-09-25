@@ -27,8 +27,9 @@ You will need a set of each below for each [x] you make.
 6. Install the front locking block, along with the slide release lever.
 7. Assemble the slide and frame together. Perform a function check.
 
-*PROTIP*: If your trigger is "dead" after cocking, you will need to manually disengage the sear with a thin punch or screw driver coming into the rear of the frame where the slide and frame meet. Refer to the first FAQ question on how to "fit" your sear.
+Video Assembly Guide found here: https://odysee.com/@nguyenkvvn:a/SW9-Assembly-Video:0
 
+*PROTIP*: If your trigger is "dead" after cocking, you will need to manually disengage the sear with a thin punch or screw driver coming into the rear of the frame where the slide and frame meet. Refer to the first FAQ question on how to "fit" your sear.
 
 ## FAQ
 **Q**: My trigger is "dead" when I try to pull it. There is tension when I pull back indicating that the sear and striker is interfacing, but the striker ultimatey never slips.
