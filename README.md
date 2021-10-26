@@ -42,6 +42,9 @@ Video Assembly Guide found here: https://odysee.com/@nguyenkvvn:a/SW9-Assembly-V
 
 ## Change Log
 
+- v0.5: Private Beta Candidate 5
+    * Addressed sear spring backpushing into the frame, causing an indentation and creating a tough trigger pull
+
 - v0.4: Private Beta Candidate 4
     * Addressed Glock variant seating by -2mm towards rails to accomodate PMAGs
 
